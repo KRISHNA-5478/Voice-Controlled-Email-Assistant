@@ -24,39 +24,34 @@ I wanted to combine automation with accessibility, creating a tool that saves ti
    git clone https://github.com/your-username/your-repo-name.git
 Navigate to the project folder:
 
-bash
-Copy
-Edit
+
 cd your-repo-name
+
 Install the required dependencies:
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 🚀 How to Run:
 Make sure you have Python 3.x installed.
 
 Run the program:
+python email_auto.py
 
-bash
-Copy
-Edit
-python email_assistant.py
 👥 Contributing:
 Feel free to fork this repo and make contributions! Pull requests are welcome. 🌐
 
 📜 License:
 This project is open-source and available under the MIT License.
 
-Connect with me:
-LinkedIn
+Connect with me
 
-yaml
-Copy
-Edit
+LinkedIn 👥 Contributing:
+Feel free to fork this repo and make contributions! Pull requests are welcome. 🌐
 
----
+📜 License:
+This project is open-source and available under the MIT License.
+
+
 
 ### **requirements.txt**
 
